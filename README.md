@@ -1,11 +1,11 @@
 ## GHOST BLOG Open Graph Image Generator
 
-⚠️ This is not a standalone plugin that works out of the box. This has to be incoporated together with a dynamic image generator I build for general purpose.
+⚠️ This is not a standalone plugin that works out of the box, some configuration is required. This has to be incoporated together with a dynamic image generator I build for general purpose.
 
 ### Before installation
 
 - Make sure that `you have disabled the default gradient background`
-- Get the automatic image generator setup, reach out for more details
+- Get the automatic image generator setup for your website, I'm happy to setup my image generation API that I am using for my blog for your website or blog, reach out rukshan[at]ruky[me]
 
 ### How to install
 
