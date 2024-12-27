@@ -31,6 +31,6 @@ module.exports = async function generate_og_image(options) {
   const b64 = btoa(jsonPayload);
   const strip_b64 = b64.replace(/=/g, "");
   return new SafeString(
-    `<meta property="og:image" content="https://hicafe.co/demo/${strip_b64}/{blog_name}.png" />`,
+    `<meta property="og:image" content="https://{domain_name_setting}/${strip_b64}/{blog_name}.png" />`,
   );
 };
