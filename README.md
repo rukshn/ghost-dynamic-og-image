@@ -12,5 +12,6 @@
 - Clone the repository
 - Copy the `ghost_og.js` file to the `helpers` folder of your Ghost installation
 - Replace the parameters of the `domain_name` and `blog_name` with the parameters provided by the image generation service
+- Add `{{ghost_og}}` as a handlebar tag above `{{ghost_head}}` this is important because `og` tags should appear within the first 300 bytes of a webpage
 - Restart Ghost blog `ghost restart`
 - Refresh the page to see the `<og:image` tag included in the blog source
