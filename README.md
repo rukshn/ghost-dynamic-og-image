@@ -18,3 +18,9 @@
 - Add `{{ghost_og}}` as a handlebar tag above `{{ghost_head}}` this is important because `og` tags should appear within the first 300 bytes of a webpage
 - Restart Ghost blog `ghost restart`
 - Refresh the page to see the `<og:image` tag included in the blog source
+
+### How it looks on social media 
+
+Screenshot from my blog as it appears on BlueSky when sharing 
+
+<img width="592" alt="image" src="https://github.com/user-attachments/assets/d119ceb9-a3b7-4149-b062-60baf289009b" />
