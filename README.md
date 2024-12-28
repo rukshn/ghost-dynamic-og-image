@@ -1,3 +1,6 @@
+![image](https://github.com/user-attachments/assets/9750a58b-eb6d-4c22-8c23-2b4315296a37)
+
+
 ## GHOST BLOG Open Graph Image Generator
 
 ⚠️ This is not a standalone plugin that works out of the box, some configuration is required. This has to be incoporated together with a dynamic image generator I build for general purpose.
